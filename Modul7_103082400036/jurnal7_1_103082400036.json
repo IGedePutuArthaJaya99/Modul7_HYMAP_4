@@ -1,8 +1,21 @@
 ﻿{
-  "nama": {
-    "depan": "I Gede Putu Artha Jaya",
-    "belakang": "Winangun"
+  "firstName": "I Gede Putu Artha Jaya",
+  "lastName": "Winangun",
+  "gender": "male",
+  "age": 20,
+  "address": {
+    "streetAddress": "Jl. Telekomunikasi",
+    "city": "Bandung",
+    "state": "West Java"
   },
-  "nim": 103082400036,
-  "fakultas": "Informatika"
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2A4",
+      "name": "Kecerdasan Buatan"
+    }
+  ]
 }
