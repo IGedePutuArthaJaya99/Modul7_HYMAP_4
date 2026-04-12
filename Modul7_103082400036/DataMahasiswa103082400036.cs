@@ -11,24 +11,46 @@ namespace Modul7_103082400036
         public string belakang { get; set; }
     }
 
-    public class Mahasiswa
-    {
-        public Nama nama { get; set; }
-        public long nim { get; set; }
-        public string fakultas { get; set; }
-    }
-
-    public class DataMahasiswa103082400036
-    {
-        public void ReadJSON()
+    
+        public class Alamat
         {
-          
-            string jsonString = File.ReadAllText("jurnal7_1_103082400036.json");
-            Mahasiswa mhs = JsonSerializer.Deserialize<Mahasiswa>(jsonString);
+            public string streetAddress { get; set; }
+            public string city { get; set; }
+            public string state { get; set; }
+        }
 
-            Console.WriteLine($"Nama: {mhs.nama.depan} {mhs.nama.belakang}");
-            Console.WriteLine($"NIM: {mhs.nim}");
-            Console.WriteLine($"Fakultas: {mhs.fakultas}");
+        public class MataKuliah
+        {
+            public string code { get; set; }
+            public string name { get; set; }
+        }
+
+        public class Mahasiswa
+        {
+            public string firstName { get; set; }
+            public string lastName { get; set; }
+            public string gender { get; set; }
+            public int age { get; set; }
+            public Alamat address { get; set; }
+            public List<MataKuliah> courses { get; set; }
+        }
+
+        public class DataMahasiswa103082400036
+        {
+            public void ReadJSON()
+            {
+                string jsonString = File.ReadAllText("jurnal7_1_103082400036.json");
+                Mahasiswa mhs = JsonSerializer.Deserialize<Mahasiswa>(jsonString);
+
+                Console.WriteLine($"Nama: {mhs.firstName} {mhs.lastName}");
+                Console.WriteLine($"Gender: {mhs.gender}");
+                Console.WriteLine($"Umur: {mhs.age}");
+                Console.WriteLine($"Alamat: {mhs.address.streetAddress}, {mhs.address.city}, {mhs.address.state}");
+                Console.WriteLine("Mata Kuliah:");
+                foreach (var mk in mhs.courses)
+                {
+                    Console.WriteLine($"- {mk.code}: {mk.name}");
+                }
+            }
         }
     }
-}
