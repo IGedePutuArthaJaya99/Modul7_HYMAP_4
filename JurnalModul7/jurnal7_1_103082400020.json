@@ -1,0 +1,21 @@
+{
+  "firstName": "Salman",
+  "lastName": "Alfarisi",
+  "gender": "male",
+  "age": 20,
+  "address": {
+    "streetAddress": "Jl. Pucang Anom 1",
+    "city": "Surabaya",
+    "state": "East Java"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2A4",
+      "name": "Kecerdasan Buatan"
+    }
+  ]
+}

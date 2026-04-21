@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 7\\JurnalModul7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|c:\\users\\asus\\onedrive\\documents\\tugas_kuliah_salman\\coding semerster 4\\konstruksi perangkat lunak\\praktikum\\praktikum minggu 7\\jurnalmodul7\\jurnalmodul7\\jurnal7_1_103082400020.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|solutionrelative:jurnalmodul7\\jurnal7_1_103082400020.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|c:\\users\\asus\\onedrive\\documents\\tugas_kuliah_salman\\coding semerster 4\\konstruksi perangkat lunak\\praktikum\\praktikum minggu 7\\jurnalmodul7\\jurnalmodul7\\datamahasiswa103082400020.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|solutionrelative:jurnalmodul7\\datamahasiswa103082400020.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|c:\\users\\asus\\onedrive\\documents\\tugas_kuliah_salman\\coding semerster 4\\konstruksi perangkat lunak\\praktikum\\praktikum minggu 7\\jurnalmodul7\\jurnalmodul7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|solutionrelative:jurnalmodul7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jurnal7_1_103082400020.json",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 7\\JurnalModul7\\JurnalModul7\\jurnal7_1_103082400020.json",
+              "RelativeDocumentMoniker": "JurnalModul7\\jurnal7_1_103082400020.json",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 7\\JurnalModul7\\JurnalModul7\\jurnal7_1_103082400020.json",
+              "RelativeToolTip": "JurnalModul7\\jurnal7_1_103082400020.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T16:29:09.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataMahasiswa103082400020.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 7\\JurnalModul7\\JurnalModul7\\DataMahasiswa103082400020.cs",
+              "RelativeDocumentMoniker": "JurnalModul7\\DataMahasiswa103082400020.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 7\\JurnalModul7\\JurnalModul7\\DataMahasiswa103082400020.cs",
+              "RelativeToolTip": "JurnalModul7\\DataMahasiswa103082400020.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:28:07.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 7\\JurnalModul7\\JurnalModul7\\Program.cs",
+              "RelativeDocumentMoniker": "JurnalModul7\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Documents\\Tugas_kuliah_Salman\\Coding Semerster 4\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Praktikum Minggu 7\\JurnalModul7\\JurnalModul7\\Program.cs",
+              "RelativeToolTip": "JurnalModul7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:18:58.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
