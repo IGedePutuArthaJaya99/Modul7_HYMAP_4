@@ -1,0 +1,25 @@
+{
+  "members": [
+    {
+      "firstName": "I Gede Putu Artha Jaya",
+      "lastName": "Winangun",
+      "gender": "male",
+      "age": 20,
+      "nim": "103082400036"
+    },
+    {
+      "firstName": "Pradipta",
+      "lastName": "Firdaus",
+      "gender": "male",
+      "age": 20,
+      "nim": "103082400044"
+    },
+    {
+      "firstName": "Salman",
+      "lastName": "Alfarisi",
+      "gender": "male",
+      "age": 20,
+      "nim": "103082400020"
+    }
+  ]
+}

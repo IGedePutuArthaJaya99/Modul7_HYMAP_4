@@ -11,6 +11,11 @@ namespace Modul7_103082400020
             dataMhs.ReadJSON();
 
             Console.WriteLine();
+
+            TeamMembers103082400020 team = new TeamMembers103082400020();
+            team.ReadJSON();
+
+            Console.WriteLine();
         }
     }
 }

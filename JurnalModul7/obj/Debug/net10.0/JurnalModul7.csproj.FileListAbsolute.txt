@@ -13,3 +13,5 @@ C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUK
 C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 7\JurnalModul7\JurnalModul7\obj\Debug\net10.0\JurnalModul7.genruntimeconfig.cache
 C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 7\JurnalModul7\JurnalModul7\obj\Debug\net10.0\ref\JurnalModul7.dll
 C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 7\JurnalModul7\JurnalModul7\bin\Debug\net10.0\jurnal7_1_103082400020.json
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 7\JurnalModul7\JurnalModul7\bin\Debug\net10.0\jurnal7_2_103082400020.json
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 7\JurnalModul7\JurnalModul7\obj\Debug\net10.0\JurnalModul7.sourcelink.json
