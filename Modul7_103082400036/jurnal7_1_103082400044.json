@@ -1,12 +1,12 @@
 ﻿{
-  "firstName": "I Gede Putu Artha Jaya",
-  "lastName": "Winangun",
+  "firstName": "Pradipta",
+  "lastName": "Firdaus",
   "gender": "male",
   "age": 20,
   "address": {
-    "streetAddress": "Jl. Telekomunikasi",
-    "city": "Bandung",
-    "state": "West Java"
+    "streetAddress": "Jl. Dinoyo",
+    "city": "Surabaya",
+    "state": "East Java"
   },
   "courses": [
     {

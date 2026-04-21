@@ -8,13 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="jurnal7_1_103082400036.json">
+    <None Update="jurnal7_1_103082400044.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="jurnal7_2_103082400036.json">
+    <None Update="jurnal7_2_103082400044.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="jurnal7_3_103082400036.json">
+    <None Update="jurnal7_3_103082400044.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

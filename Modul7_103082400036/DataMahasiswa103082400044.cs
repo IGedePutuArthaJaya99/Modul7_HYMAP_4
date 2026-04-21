@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.Json;
 
-namespace Modul7_103082400036
+namespace Modul7_103082400044
 {
     public class Nama
     {
@@ -35,11 +35,11 @@ namespace Modul7_103082400036
             public List<MataKuliah> courses { get; set; }
         }
 
-        public class DataMahasiswa103082400036
+        public class DataMahasiswa103082400044
         {
             public void ReadJSON()
             {
-                string jsonString = File.ReadAllText("jurnal7_1_103082400036.json");
+                string jsonString = File.ReadAllText("jurnal7_1_103082400044.json");
                 Mahasiswa mhs = JsonSerializer.Deserialize<Mahasiswa>(jsonString);
 
                 Console.WriteLine($"Nama: {mhs.firstName} {mhs.lastName}");
