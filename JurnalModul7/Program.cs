@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Modul7_103082400020;
+using System;
 
 
 namespace Modul7_103082400020
@@ -16,6 +17,9 @@ namespace Modul7_103082400020
             team.ReadJSON();
 
             Console.WriteLine();
+
+            GlossaryItem103082400020 gloss = new GlossaryItem103082400020();
+            gloss.ReadJSON();
         }
     }
 }
