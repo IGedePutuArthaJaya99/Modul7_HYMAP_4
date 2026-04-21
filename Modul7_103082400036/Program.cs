@@ -16,6 +16,9 @@ namespace Modul7_103082400044
             team.ReadJSON();
 
             Console.WriteLine();
+
+            GlossaryItem103082400044 gloss = new GlossaryItem103082400044();
+            gloss.ReadJSON();
         }
     }
 }
